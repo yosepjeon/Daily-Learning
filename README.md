@@ -7,11 +7,6 @@
 3. DDD[0/5] [288p]
 4. Modern Java In Action[1/5]
 5. Kafka, 데이터플랫폼의 최강자 [0/5]
-  - chapter 1. 카프카란 무엇인가(2회)
-  - chapter 2. 카프카 설치(1회)
-  - chapter 3. 카프카 디자인(3회)
-  - chapter 4. 카프카 프로듀서(2회)
-  - chapter 5. 카프카 컨슈머(2회)
 6. 클린코드(0/5) - 배송중...
 
 강의
