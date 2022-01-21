@@ -6,7 +6,7 @@
 3. DDD[0/5] [353p -> 360p]
 4. Modern Java In Action[1/5][471p]
 5. Kafka, 데이터플랫폼의 최강자 [0/5]
-6. 클린코드(0/5)
+6. 클린코드[0/5]
 7. 오브젝트 코드로 이해하는 객체지향 설계[0/5] [246p]
 8. kotlin in action
 9. optimizing java
