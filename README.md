@@ -31,4 +31,5 @@
 언어
 1. 코틀린 주력언어로 조지기<1.Kotlin In Action, 2.구글 블로그, 3.유튜브>
 2. 자바는 Default
+3. Node.JS랑 Django중 고민
 
