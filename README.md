@@ -15,6 +15,10 @@
 12. 다재다능 코틀린 프로그래밍[0/5] [92p -> 109p]
 13. 이펙티브 코틀린[1/3] [아이템 13 ~ 18] 사내 스터디 중 이건 아이템 6개씩 3회독
 
+스프링 공식 레퍼런스(https://godekdls.github.io/)
+1.Spring Data Access(https://godekdls.github.io/Spring%20Data%20Access/contents/) -> 
+
+
 강의. (반복 회수 / 전체 목표 회수) [수강한 강의 chapter / 전체 강의 chapter]
 1. 클린코드(0/5) [17/30]
 2. Elastic Search(0/5)
