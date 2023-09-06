@@ -18,6 +18,7 @@
 스프링 공식 레퍼런스(https://godekdls.github.io/)
 1. Spring Data Access(https://godekdls.github.io/Spring%20Data%20Access/contents/) ->
 
+redis 공식 레퍼런스(http://redisgate.kr/redisgate/ent/ent_intro.php)
 
 강의. (반복 회수 / 전체 목표 회수) [수강한 강의 chapter / 전체 강의 chapter]
 1. 클린코드(0/5) [17/30]
