@@ -21,7 +21,7 @@
 redis 공식 레퍼런스(http://redisgate.kr/redisgate/ent/ent_intro.php)
 
 강의. (반복 회수 / 전체 목표 회수) [수강한 강의 chapter / 전체 강의 chapter]
-1. 클린코드(0/5) [17/30]
+1. 클린코드(1/5) [0/30]
 2. Elastic Search(0/5)
 3. 배치 강의(0/5)
 
