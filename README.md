@@ -16,7 +16,7 @@
 13. 이펙티브 코틀린[1/3] [아이템 13 ~ 18] 사내 스터디 중 이건 아이템 6개씩 3회독
 
 스프링 공식 레퍼런스(https://godekdls.github.io/)
-1. Spring Data Access(https://godekdls.github.io/Spring%20Data%20Access/contents/) -> 
+1. Spring Data Access(https://godekdls.github.io/Spring%20Data%20Access/contents/) -> 1.4.7장부터 시작
 
 redis 공식 레퍼런스(http://redisgate.kr/redisgate/ent/ent_intro.php)
 
