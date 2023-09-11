@@ -14,6 +14,7 @@
 11. 데이터중심 애플리케이션 설계[1/5]
 12. 다재다능 코틀린 프로그래밍[0/5] [92p -> 109p]
 13. 이펙티브 코틀린[1/3] [아이템 13 ~ 18] 사내 스터디 중 이건 아이템 6개씩 3회독
+14. Real MYSQL 1권 08.인덱스 [1/5] 
 
 스프링 공식 레퍼런스(https://godekdls.github.io/)
 1. Spring Data Access(https://godekdls.github.io/Spring%20Data%20Access/contents/) -> 1.4.7장부터 시작
