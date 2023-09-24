@@ -18,7 +18,7 @@
 
 스프링 공식 레퍼런스(https://godekdls.github.io/)
 1. Spring Data Access(https://godekdls.github.io/Spring%20Data%20Access/contents/) -> 1.4.7장부터 시작
-2. Spring AOP
+2. Spring AOP 공식문서
 
 redis 공식 레퍼런스(http://redisgate.kr/redisgate/ent/ent_intro.php)
 
