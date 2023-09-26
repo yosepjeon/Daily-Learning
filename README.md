@@ -28,7 +28,7 @@ redis 공식 레퍼런스(http://redisgate.kr/redisgate/ent/ent_intro.php)
 3. 배치 강의(0/5)
 
 개인 프로젝트
-1. 이벤트 서비스[쿠폰, 선착순 이벤트 같은] 개발 <TODO>
+1. 다시 e-commerce 프로젝트 하나 만들기
 2. 로깅 시스템 <TODO>
 3. 배치 프로젝트 여러개 <TODO>
 4. 제대로된 인증시스템 구현 <TODO>
