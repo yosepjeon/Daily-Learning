@@ -1,5 +1,7 @@
 
 # 개발 도서
+[![Blog](https://img.shields.io/badge/Blog-https://yoggaebi.tistory.com/-green.svg)](https://yoggaebi.tistory.com/)
+
 
 개발 독서 [초기 5번은 완전 꼼꼼히는 아니지만 실무 혹은 중요하다고 여겨지는 부분을 중점으로] (반복 회수 / 전체 목표 회수) [before page -> current page]
 1. 코틀린 동시성 프로그래밍
