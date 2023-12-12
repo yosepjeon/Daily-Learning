@@ -15,13 +15,13 @@
 9. kotlin in action[1/5] 
 10. optimizing java[0/5] [0p -> 40p]
 11. 데이터중심 애플리케이션 설계[2/5]
-12. 다재다능 코틀린 프로그래밍[0/5] 
-13. 이펙티브 코틀린[1/3] [아이템 13 ~ 18] 사내 스터디 중 이건 아이템 6개씩 3회독
+12. 다재다능 코틀린 프로그래밍[1/5] 
+13. 이펙티브 코틀린[1/3] [아이템 13 ~ 18] 
 14. Real MYSQL 1권 08.인덱스 [1/5]
 15. vue.js 프로젝트 투입 일주일전 [0/5] [92p]
 
 스프링 공식 레퍼런스(https://godekdls.github.io/)ㅁ
-1. Spring Data Access(https://godekdls.github.io/Spring%20Data%20Access/contents/) -> 1.4.7장부터 시작
+1. Spring Data Access(https://godekdls.github.io/Spring%20Data%20Access/contents/) -> 2.1.1장부터 시작
 2. Spring AOP 공식문서
 
 redis 공식 레퍼런스(http://redisgate.kr/redisgate/ent/ent_intro.php)
