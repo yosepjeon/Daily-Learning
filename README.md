@@ -14,11 +14,11 @@
 8. 오브젝트 코드로 이해하는 객체지향 설계[2/5] 
 9. kotlin in action[1/5] 
 10. optimizing java[0/5] [0p -> 40p]
-11. 데이터중심 애플리케이션 설계[2/5]
+11. 데이터중심 애플리케이션 설계[2/5] 5장 복제 진행중
 12. 다재다능 코틀린 프로그래밍[1/5] 
 13. 이펙티브 코틀린[1/3] [아이템 13 ~ 18] 
 14. Real MYSQL 1권 08.인덱스 [1/5]
-15. vue.js 프로젝트 투입 일주일전 [0/5] [92p]
+15. vue.js 프로젝트 투입 일주일전 [0/5]
 
 스프링 공식 레퍼런스(https://godekdls.github.io/)ㅁ
 1. Spring Data Access(https://godekdls.github.io/Spring%20Data%20Access/contents/) -> 2.1.1장부터 시작
