@@ -42,6 +42,6 @@ redis 공식 레퍼런스(http://redisgate.kr/redisgate/ent/ent_intro.php)
   
 언어
 1. 코틀린 주력언어로 조지기<1.Kotlin In Action, 2.구글 블로그, 3.유튜브>
-2. 자바는 Default
+2. 자바는 Default 최신자바도 학습
    
 
