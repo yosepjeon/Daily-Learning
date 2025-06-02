@@ -20,7 +20,8 @@
 14. Real MYSQL 1권 08.인덱스 [1/5] 트랜잭션과 잠금 다시 읽기
 15. vue.js 프로젝트 투입 일주일전 [0/5]
 16. 헤드퍼스트 디자인패턴 [데코레이터 패턴 학습 완료]
-17. Real MongoDB
+17. 코틀린 디자인패턴 [0/5]
+18. Real MongoDB
 
 스프링 공식 레퍼런스(https://godekdls.github.io/)ㅁ
 1. Spring Data Access(https://godekdls.github.io/Spring%20Data%20Access/contents/) -> 2.1.1장부터 시작
@@ -29,7 +30,7 @@
 redis 공식 레퍼런스(http://redisgate.kr/redisgate/ent/ent_intro.php)
 
 강의. (반복 회수 / 전체 목표 회수) [수강한 강의 chapter / 전체 강의 chapter]
-1. 클린코드(1/5) [0/30]
+1. 클린코드(2/5) [0/30]
 2. Elastic Search(0/5)
 3. 배치 강의(2/5)
 
